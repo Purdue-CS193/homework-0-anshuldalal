@@ -68,3 +68,5 @@ Navigate to the settings page for your **Purdue-CS193/homework-0-\<Your Github U
 | List is ‘bulleted’                            | 1      |
 | Successfully committed homework               | 2      |
 | Total                                         | 10     |
+
+![](https://github.com/Purdue-CS193/homework-0-anshuldalal/blob/master/maxwell-the-cat.gif)
