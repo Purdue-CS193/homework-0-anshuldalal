@@ -1,4 +1,59 @@
-## Welcome to GitHub Pages
+# anshuldalal's First CS193 Homework
+
+# Things I like about CS 193
+
+- We'll learn LaTeX which I already need for 3 classes
+- The slides are well-made
+- It's low-stress
+
+<br/>
+
+__Lorem__ ipsum **dolor** sit *amet,* consectetur ~~adipiscing~~ elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. __Ut enim ad *minim* veniam__, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in <sub>reprehenderit</sub> in <sup>voluptate</sup> velit esse <ins>cillum</ins> dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+![](https://github.com/Purdue-CS193/homework-0-anshuldalal/blob/master/maxwell-the-cat.gif)
+
+> I'm the goat baaahhh
+- Lebron James
+
+the background is a noise pattern of `#1a1a1a` and `1b1b1b` and the headings are `#b5e853`
+
+My [Latest Project](https://youtu.be/dQw4w9WgXcQ?si=6qAiItZ4e43eNpYP).
+
+```
+public class Car {
+    private String name = "";
+    private String fur = "";
+    private int intelligence;
+
+    public Car(String name, String fur, int intelligence) {
+        this.name = name;
+        this.fur =  fur;
+        this.intelligence = intelligence;
+    }
+
+    private String getName() {
+        return name;
+    }
+
+    private String getFur() {
+        return fur;
+    }
+
+    private int getIntelligence() {
+        return intelligence;
+    }
+
+    public static void main(String[] args) {
+        Car billy = new Car("billy","Tuxedo", -40);
+        System.out.printf("%s is a %s cat with an intelligence of %d", billy.getName(), billy.getFur(), billy.getIntelligence());
+    }
+}
+
+```
+
+# Default Text
+
+## Welcome to Github Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
