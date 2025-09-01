@@ -10,7 +10,7 @@
 
 __Lorem__ ipsum **dolor** sit *amet,* consectetur ~~adipiscing~~ elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. __Ut enim ad *minim* veniam__, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in <sub>reprehenderit</sub> in <sup>voluptate</sup> velit esse <ins>cillum</ins> dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-![](https://github.com/Purdue-CS193/homework-0-anshuldalal/blob/master/maxwell-the-cat.gif)
+![maxwell-the-cat](https://github.com/user-attachments/assets/4e7c8302-bd93-4a97-9481-84025d66378b)
 
 > I'm the goat baaahhh
 - Lebron James
